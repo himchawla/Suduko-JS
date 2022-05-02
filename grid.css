@@ -1,0 +1,65 @@
+#game {
+    width: 600px;
+    height: 600px;
+
+    margin-top: 20px;
+    margin-bottom: 100px;
+    margin-left: 30px;
+
+    position: absolute;
+    display: block;
+    background-color: white;
+}
+
+#grid {
+    /*width: 378px;*/
+    /*height: 395px;*/
+
+    margin-left: 500px;
+    margin-top: 50px;
+
+    /*border: 3px solid #000000;*/
+}
+.row:first-child {
+    border-top: 3px solid black;
+}
+.row:nth-child(3n) {
+    border-bottom: 3px solid black;
+}
+
+.cell{
+    /*display: inline-block;*/
+    /*float: left;*/
+
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+
+    text-align: center;
+    font-size: 30px;
+}
+
+
+/*input[type=text]:focus {*/
+/*    background-color: lightblue;*/
+/*    color: transparent;*/
+
+/*    text-shadow: 0 0 0 red;*/
+
+/*}*/
+
+
+
+/*  */
+
+.cell:first-child {
+    border-left: 3px solid black;
+}
+
+.cell:nth-child(3n) {
+
+    border-right: 3px solid black;
+    /*border-right: 3px solid black;*/
+
+}
+
