@@ -2,7 +2,7 @@
 
 ![Project Image](project-image-url)
 
-> This is a ReadMe template to help save you time and effort.
+> Suduko made using javascript and html.
 
 ---
 
@@ -19,7 +19,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Suduko made with javascript and html.
+Long Description.
 
 #### Technologies
 
@@ -39,16 +39,6 @@ Press the [Clear] button to clear any input and start the same puzzle from the b
 
 After a Row/Column/Block is completed, it glows to let the player know that it's completed.
 
-#### Installation
-
-
-
-[Back To The Top](#read-me-template)
-
----
-
-## References
-[Back To The Top](#read-me-template)
 
 ---
 
@@ -62,7 +52,7 @@ MIT License
 ---
 
 ## Author Info
-
+Himanshu Chawla
 
 
 [Back To The Top](#read-me-template)
